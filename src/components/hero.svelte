@@ -1,11 +1,11 @@
 <template>
 	<div class="py-40">
 		<div
-			class="flex justify-center items-center mb-8 font-roboto font-medium text-7xl text-gray-900"
+			class="flex justify-center items-center mb-12 font-roboto font-medium text-7xl text-gray-900 text-center"
 		>
 			<h1>Together we can<br /> create better work</h1>
 		</div>
-		<div class="flex justify-center mb-8 font-roboto text-xl text-gray-600">
+		<div class="flex justify-center mb-12 font-roboto text-xl text-gray-600 text-center">
 			<p>
 				From desks to offices and entire headquarters, we create<br /> environments for productivity,
 				innovation and connection.
