@@ -13,7 +13,7 @@
 		</div>
 		<div class="flex justify-center">
 			<button
-				class="flex gap-3 items-center bg-green-400 text-white py-4 px-12 rounded-full font-roboto font-medium text-lg"
+				class="flex gap-3 items-center bg-green-400 hover:bg-green-500 text-white py-4 px-12 rounded-full font-roboto font-medium text-lg"
 				><svg
 					xmlns="http://www.w3.org/2000/svg"
 					class="h-6 w-6"

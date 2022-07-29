@@ -1,17 +1,16 @@
 <script>
 	// Import Swiper Svelte components
 	import { Swiper, SwiperSlide } from 'swiper/svelte';
+	import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from 'swiper';
 
 	// Import Swiper styles
 	import 'swiper/css';
 </script>
 
 <Swiper
-	spaceBetween={50}
-	slidesPerView={1}
-	navigation
-	pagination
-	loop
+	modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
+	autoplay={true}
+	loop={true}
 	on:slideChange={() => console.log('slide change')}
 	on:swiper={(e) => console.log(e.detail[0])}
 >
