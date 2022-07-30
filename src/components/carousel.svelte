@@ -19,24 +19,12 @@
 	on:swiper={(e) => console.log(e.detail[0])}
 >
 	<SwiperSlide
-		><img
-			src="../../static/images/office-1.webp"
-			alt="Office"
-			class="w-full my-[-15vh]"
-		/></SwiperSlide
+		><img src="https://iili.io/SwEjTB.webp" alt="Office" class="w-full my-[-15vh]" /></SwiperSlide
 	>
 	<SwiperSlide
-		><img
-			src="../../static/images/office-2.webp"
-			alt="Office"
-			class="w-full my-[-15vh]"
-		/></SwiperSlide
+		><img src="https://iili.io/SwEXpV.webp" alt="Office" class="w-full my-[-15vh]" /></SwiperSlide
 	>
 	<SwiperSlide
-		><img
-			src="../../static/images/office-3.webp"
-			alt="Office"
-			class="w-full my-[-15vh]"
-		/></SwiperSlide
+		><img src="https://iili.io/SwEWkQ.webp" alt="Office" class="w-full my-[-15vh]" /></SwiperSlide
 	>
 </Swiper>

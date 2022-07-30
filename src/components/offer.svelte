@@ -22,7 +22,7 @@
 				on:swiper={(e) => console.log(e.detail[0])}
 			>
 				<SwiperSlide>
-					<img src="../../static/images/office-4.webp" alt="Office" class="w-full mb-8" />
+					<img src="https://iili.io/SwEwhP.png" alt="Office" class="w-full mb-8" />
 					<h4 class="font-roboto font-semibold text-2xl mb-1">On-Demand Spaces</h4>
 					<p class="font-roboto font-medium text-lg text-gray-600 mb-4">
 						Commitment free workspaces when you need them.
@@ -45,7 +45,7 @@
 					>
 				</SwiperSlide>
 				<SwiperSlide>
-					<img src="../../static/images/office-4.webp" alt="Office" class="w-full mb-8" />
+					<img src="https://iili.io/SwEwhP.png" alt="Office" class="w-full mb-8" />
 					<h4 class="font-roboto font-semibold text-2xl mb-1">On-Demand Spaces</h4>
 					<p class="font-roboto font-medium text-lg text-gray-600 mb-4">
 						Commitment free workspaces when you need them.
@@ -68,7 +68,7 @@
 					>
 				</SwiperSlide>
 				<SwiperSlide>
-					<img src="../../static/images/office-4.webp" alt="Office" class="w-full mb-8" />
+					<img src="https://iili.io/SwEwhP.png" alt="Office" class="w-full mb-8" />
 					<h4 class="font-roboto font-semibold text-2xl mb-1">On-Demand Spaces</h4>
 					<p class="font-roboto font-medium text-lg text-gray-600 mb-4">
 						Commitment free workspaces when you need them.
@@ -91,7 +91,7 @@
 					>
 				</SwiperSlide>
 				<SwiperSlide>
-					<img src="../../static/images/office-4.webp" alt="Office" class="w-full mb-8" />
+					<img src="https://iili.io/SwEwhP.png" alt="Office" class="w-full mb-8" />
 					<h4 class="font-roboto font-semibold text-2xl mb-1">On-Demand Spaces</h4>
 					<p class="font-roboto font-medium text-lg text-gray-600 mb-4">
 						Commitment free workspaces when you need them.
@@ -114,7 +114,7 @@
 					>
 				</SwiperSlide>
 				<SwiperSlide>
-					<img src="../../static/images/office-4.webp" alt="Office" class="w-full mb-8" />
+					<img src="https://iili.io/SwEwhP.png" alt="Office" class="w-full mb-8" />
 					<h4 class="font-roboto font-semibold text-2xl mb-1">On-Demand Spaces</h4>
 					<p class="font-roboto font-medium text-lg text-gray-600 mb-4">
 						Commitment free workspaces when you need them.
