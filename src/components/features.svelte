@@ -76,7 +76,7 @@
 					fill="none"
 					viewBox="0 0 24 24"
 					stroke="currentColor"
-					stroke-width="2"
+					stroke-width="1.2"
 				>
 					<path
 						stroke-linecap="round"
@@ -96,7 +96,7 @@
 					fill="none"
 					viewBox="0 0 24 24"
 					stroke="currentColor"
-					stroke-width="2"
+					stroke-width="1.2"
 				>
 					<path
 						stroke-linecap="round"
@@ -116,7 +116,28 @@
 					fill="none"
 					viewBox="0 0 24 24"
 					stroke="currentColor"
-					stroke-width="2"
+					stroke-width="1.2"
+				>
+					<path
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"
+					/>
+				</svg>
+				<h3 class="mb-3">This is a header</h3>
+				<p class="text-gray-600 font-medium">
+					This is a paragraph, it is meant to be much longer than the header for tests purposesThis
+					is a paragraph, it is meant to be much longer than the header for tests purposes
+				</p>
+			</div>
+			<div class="">
+				<svg
+					xmlns="http://www.w3.org/2000/svg"
+					class="h-24 w-24 mb-6"
+					fill="none"
+					viewBox="0 0 24 24"
+					stroke="currentColor"
+					stroke-width="1.2"
 				>
 					<path
 						stroke-linecap="round"
@@ -136,7 +157,7 @@
 					fill="none"
 					viewBox="0 0 24 24"
 					stroke="currentColor"
-					stroke-width="2"
+					stroke-width="1.2"
 				>
 					<path
 						stroke-linecap="round"
@@ -156,27 +177,7 @@
 					fill="none"
 					viewBox="0 0 24 24"
 					stroke="currentColor"
-					stroke-width="2"
-				>
-					<path
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"
-					/>
-				</svg>
-				<h3 class="mb-3">This is a header</h3>
-				<p class="text-gray-600 font-medium">
-					This is a paragraph, it is meant to be much longer than the header for tests purposes
-				</p>
-			</div>
-			<div class="">
-				<svg
-					xmlns="http://www.w3.org/2000/svg"
-					class="h-24 w-24 mb-6"
-					fill="none"
-					viewBox="0 0 24 24"
-					stroke="currentColor"
-					stroke-width="2"
+					stroke-width="1.2"
 				>
 					<path
 						stroke-linecap="round"
