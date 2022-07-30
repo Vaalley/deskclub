@@ -9,8 +9,12 @@
 
 <Swiper
 	modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
-	autoplay={true}
+	autoplay={{
+		delay: 3000,
+		disableOnInteraction: false
+	}}
 	loop={true}
+	class="mb-44"
 	on:slideChange={() => console.log('slide change')}
 	on:swiper={(e) => console.log(e.detail[0])}
 >

@@ -1,6 +1,6 @@
 <template>
-	<div class="font roboto mt-32">
-		<div class="">
+	<div class="font roboto">
+		<div>
 			<p class="flex items-center justify-center uppercase text-green-500 font-bold text-lg mb-5">
 				What's included
 			</p>
@@ -8,7 +8,7 @@
 				All the essentials and more
 			</h2>
 		</div>
-		<div class="grid grid-cols-3 grid-rows-3 gap-20 font-roboto font-semibold mx-40">
+		<div class="grid grid-cols-3 grid-rows-3 gap-20 font-roboto font-semibold mx-[8%]">
 			<div class="">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"

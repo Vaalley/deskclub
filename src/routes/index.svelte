@@ -3,6 +3,7 @@
 	import Hero from '../components/hero.svelte';
 	import Carousel from '../components/carousel.svelte';
 	import Features from '../components/features.svelte';
+	import Offer from '../components/offer.svelte';
 </script>
 
 <svelte:head>
@@ -13,5 +14,6 @@
 	<Navbar />
 	<Hero />
 	<Carousel />
+	<Offer />
 	<Features />
 </template>
