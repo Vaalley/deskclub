@@ -1,9 +1,9 @@
 <template>
 	<div class="h-24 w-full flex items-center justify-end font-roboto font-medium">
-		<div class="mr-auto ml-[3%] text-2xl font-bold">
+		<div class="mr-auto ml-[3%] text-2xl font-black">
 			<p>deskclub</p>
 		</div>
-		<div class="mr-auto text-lg">
+		<div class="mr-auto text-lg font-bold">
 			<ul class="flex gap-8">
 				<a href="/"><li class="hover:underline">Workspace</li></a>
 				<a href="/"
