@@ -39,5 +39,4 @@
 			class="w-full my-[-15vh]"
 		/></SwiperSlide
 	>
-	...
 </Swiper>
