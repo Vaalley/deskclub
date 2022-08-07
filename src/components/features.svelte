@@ -8,7 +8,7 @@
 				All the essentials and more
 			</h2>
 		</div>
-		<div class="grid grid-cols-3 grid-rows-3 gap-20 font-roboto font-semibold mx-[8%]">
+		<div class="grid grid-cols-3 grid-rows-3 gap-20 font-roboto font-semibold mx-[8%] mb-24">
 			<div class="">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"

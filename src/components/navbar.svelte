@@ -26,7 +26,7 @@
 		</div>
 		<div class="mr-[3%] ">
 			<button
-				class="text-green-400 hover:text-green-500 text-lg border-2 border-green-400 hover:border-green-500 rounded-full py-2 px-7"
+				class="text-green-400 hover:text-green-500 text-lg border-2 border-green-400 hover:border-green-500 rounded-full py-2 px-7 transition-all"
 				>Log in</button
 			>
 		</div>
